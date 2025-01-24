@@ -1,5 +1,5 @@
-- Hi, I’m Deny2Plays
+- Hi, I’m Denis Drexler
 - I’m interested in programming
 - I’m looking to collaborate on programming (websites, any js project)
 - You can contact me by email - ytdeny2plays@gmail.com
-- My website - https://deny2plays.fun/
+- My website - https://denisdrexler.eu/
